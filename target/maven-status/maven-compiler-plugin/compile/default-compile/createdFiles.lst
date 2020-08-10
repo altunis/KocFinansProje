@@ -1,0 +1,5 @@
+com\ismail\kocfinansproje\boot\ApplicationStarter.class
+com\ismail\kocfinansproje\services\CreditApplicationService.class
+com\ismail\kocfinansproje\entity\CreditApplication.class
+com\ismail\kocfinansproje\repository\CreditApplicationRepository.class
+com\ismail\kocfinansproje\controller\CreditScoreController.class
